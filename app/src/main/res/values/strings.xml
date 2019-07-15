@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="txt_about">About ALC</string>
+    <string name="txt_profile">My Profile</string>
+    <string name="txt_name">Tshepo Masitlane</string>
+    <string name="txt_track">Android</string>
+    <string name="txt_country">South Africa</string>
+    <string name="txt_email">tshepomace@gmail.com</string>
+    <string name="txt_slack_username">Tshepo M</string>
+    <string name="txt_phone_no">(+27)0839269104</string>
+    <string name="lbl_track">Track : Android</string>
+    <string name="lbl_country">Country : South Africa</string>
+    <string name="lbl_email">Email : tshepomace@gmail.com</string>
+    <string name="lbl_phone_number">Phone Number : 0839269104</string>
+    <string name="lbl_slack_username">Slack Username :  @Tshepo M</string>
+    <string name="txt_welcome_to_alc_4_o">Welcome To ALC 4.0</string>
+</resources>
